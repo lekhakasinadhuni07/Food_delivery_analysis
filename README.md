@@ -4,13 +4,17 @@
 This project leverages SQL-based data analysis to extract key business insights for Zomato, a leading food delivery platform in India. The findings help optimize restaurant performance, improve customer retention, enhance delivery efficiency, and boost revenue streams.
 
 ## 🛠️ Advanced SQL Techniques Used
-✅ **Data Cleaning & Transformation** (COALESCE, handling NULL values)  
-✅ **Aggregation & Grouping** (SUM, AVG, COUNT, GROUP BY, HAVING)  
-✅ **Joins & Relationships** (INNER JOIN, LEFT JOIN, SELF JOIN)  
-✅ **Ranking & Window Functions** (RANK(), DENSE_RANK(), PARTITION BY, OVER())  
-✅ **Filtering & Conditional Logic** (WHERE, CASE, HAVING, EXTRACT(YEAR FROM date))  
+✅ **Data Cleaning & Transformation** (handling NULL values, deduplication)
+
+✅ **Aggregation & Grouping** (`SUM`, `AVG`, `COUNT`, `GROUP BY`, `HAVING`)
+
+✅ **Joins & Relationships** (`INNER JOIN`, `LEFT JOIN`, `SELF JOIN`)  
+
+✅ **Ranking & Window Functions** (`RANK()`, `DENSE_RANK()`, `PARTITION BY`, `OVER()`)  
+
+✅ **Filtering & Conditional Logic** (`WHERE`, `CASE`, `HAVING`, `YEAR` FROM date)  
+
 ✅ **Subqueries & Common Table** Expressions (CTEs) (WITH CTEs, Nested Queries)  
-✅ **Performance Optimization** (Indexes, Avoiding SELECT *, Efficient Joins)
 
 ## 🔍 Key Findings & Business Insights from Zomato Data Analysis
 ### 1️⃣ Customer Ordering Patterns & Preferences
