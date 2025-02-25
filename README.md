@@ -1,4 +1,4 @@
-# 📊 Food_delivery_advanced_SQL
+# 📊 Food delivery using Advanced SQL
 
 ## 🚀 Executive Summary
 This project leverages SQL-based data analysis to extract key business insights for Zomato, a leading food delivery platform in India. The findings help optimize restaurant performance, improve customer retention, enhance delivery efficiency, and boost revenue streams.
